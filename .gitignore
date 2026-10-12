@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets (never commit bot tokens or API keys)
+.env
+*.key
